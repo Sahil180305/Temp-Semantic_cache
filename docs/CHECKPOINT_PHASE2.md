@@ -414,7 +414,7 @@ curl -H "Authorization: Bearer $token" http://localhost:8000/api/v1/cache
 
 ```bash
 # Start fresh
-cd c:\Users\dipan\Btech-Major-Project\semantic-cache
+cd Btech-Major-Project\semantic-cache
 
 # Activate venv
 .\.venv\Scripts\Activate.ps1

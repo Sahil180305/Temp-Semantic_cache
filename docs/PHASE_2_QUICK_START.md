@@ -22,7 +22,7 @@
 
 ### 1. Get Updated Code
 ```bash
-cd c:\Users\dipan\Btech-Major-Project\semantic-cache
+cd Btech-Major-Project\semantic-cache
 git pull origin main  # (or check if already latest)
 ```
 
@@ -139,7 +139,7 @@ PUT /api/v1/admin/policies           Update cache policies      admin
 
 ```bash
 # Navigate and activate
-cd c:\Users\dipan\Btech-Major-Project\semantic-cache
+cd Btech-Major-Project\semantic-cache
 .\.venv\Scripts\Activate.ps1
 
 # Run unit tests
